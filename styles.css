@@ -1,0 +1,21 @@
+img{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
+p{
+    
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+
+}
+h2{
+    text-align: center;
+}
+.contenedor{
+    display: inline-block;
+    border: 2px dashed darkgray;
+    margin: 10px;
+}
